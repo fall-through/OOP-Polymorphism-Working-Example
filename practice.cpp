@@ -437,3 +437,23 @@ void PointerPractice(){
 }
 
 
+//NEXT
+//pointers with arrays
+//array indexing w/pointers
+//traversal by pointer/index
+//c-style strings
+//c-style strings as char arrays
+//traversing c-style strings
+//strcpy
+//comparing c-style strings
+//argc & argv & atoi
+// streams
+//using struct to create class type objects
+//structs and const
+//the arrow pointer (shortcut member access through pointer)
+//passing structs as parameters
+//VECTORS
+//2d VECTORS
+//
+
+
