@@ -17,6 +17,24 @@ int main(){
     *ptr= 10;
     //will spit out 10
     cout << *ptr << endl;
+    
+    
+    
+   //vectors -- store info of same data type, need to import #include <vector>
+    //to declare vector<DataType> nameOfVector
+    vector<string> myVector;
+    
+    myVector.push_back("king");
+    //can use unsigned for int to make sure its always positive
+    for(unsigned int i = 0; i < myVector.size(); i++){
+        cout << myVector.at[i] << " ";
+    }
+    
+    cout << "Vector: ";
+    
+    for()
+    
+    
 
 
     
